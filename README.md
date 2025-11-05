@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Priya Munera
 
-<!--
-**priyamunera/priyamunera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Linux Systems Engineer | Linux Architect in training | DevOps enthusiast  
+🌱 Currently learning: OpenShift, Kubernetes, and Ansible  
+⚙️ RHCSA candidate, passionate about automation and infrastructure  
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- OS: RHEL / Ubuntu / Fedora
+- Tools: Ansible, Docker, Podman, OpenShift, Git, Bash, Python
+- Cloud: AWS, Azure, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I’m working on
+- Building a home lab with Red Hat Satellite & Kubernetes  
+- Automating patch management with Ansible  
+- Creating REST APIs with Flask
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/priya-munera-001382181/) • [Email](priyamunera@gmail.com)
