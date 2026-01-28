@@ -2,7 +2,7 @@
 
 💻 Linux Systems Engineer | Linux Architect in training | DevOps enthusiast  
 🌱 Currently learning: OpenShift, Kubernetes, and Ansible  
-⚙️ RHCSA candidate, passionate about automation and infrastructure  
+⚙️ RHCSA Certified, passionate about automation and infrastructure  
 
 ### 🧰 Tech Stack
 - OS: RHEL / Ubuntu / Fedora
